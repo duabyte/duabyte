@@ -5,7 +5,7 @@ import urllib.request
 import html
 
 USERNAME = "DuaaByte"
-API_KEY = os.environ["LAST_API"]
+API_KEY = os.environ["LASTFM_API_KEY"]
 
 params = urllib.parse.urlencode({
     "method": "user.getrecenttracks",
