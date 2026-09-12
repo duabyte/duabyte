@@ -1,0 +1,19 @@
+<svg width="500" height="120"
+viewBox="0 0 500 120"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="500" height="120" rx="15" fill="#1e1a24"/>
+
+<text x="25" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#C9B8E8">
+  ▶ NOW PLAYING
+</text>
+
+<text x="25" y="65" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white">
+  1 Thing
+</text>
+
+<text x="25" y="92" font-family="Arial, sans-serif" font-size="14" fill="#aaa">
+  Amerie
+</text>
+
+</svg>
